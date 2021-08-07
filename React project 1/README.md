@@ -8,3 +8,5 @@ Applying the concept of array destructuring
 ![Screenshot (27)](https://user-images.githubusercontent.com/64987866/128609979-eb1de847-6ffa-4bc2-a3af-75036ab3dfb5.png)
 
 ![Screenshot (28)](https://user-images.githubusercontent.com/64987866/128609994-760ab521-a91f-4cc4-b6df-ea6c2eade650.png)
+
+![Screenshot (30)](https://user-images.githubusercontent.com/64987866/128610039-b3fc508d-6601-46c9-8157-3fae9bef2a96.png)
